@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @rosalyu
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Python, C and Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in: Computer Science
+- 🌱 I’m currently learning: Kotlin
+- 📫 How to reach me: rosa.lyub@gmail.com
 
 <!---
 rosalyu/rosalyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
