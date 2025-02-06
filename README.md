@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rosalyu
 - 👀 I’m interested in: Computer Science
-- 🌱 I’m currently learning: Native Android development using Kotlin and XML
+- 🌱 I’m currently learning: Native Android development with Kotlin and Jetpack Compose
 - 📫 How to reach me: rosa.lyub@gmail.com
 
 <!---
